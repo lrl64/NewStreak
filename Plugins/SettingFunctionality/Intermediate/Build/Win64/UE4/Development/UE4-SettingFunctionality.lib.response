@@ -2,7 +2,7 @@
 /errorReport:prompt
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
-"C:\Users\AvikB\Documents\Unreal Projects\MenuSystem\Plugins\SettingFunctionality\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\Module.SettingFunctionality.cpp.obj"
-"C:\Users\AvikB\Documents\Unreal Projects\MenuSystem\Plugins\SettingFunctionality\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\Module.SettingFunctionality.gen.cpp.obj"
-"C:\Users\AvikB\Documents\Unreal Projects\MenuSystem\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\PCLaunch.rc.res"
-/OUT:"C:\Users\AvikB\Documents\Unreal Projects\MenuSystem\Plugins\SettingFunctionality\Binaries\Win64\UE4-SettingFunctionality.lib"
+"C:\Users\Massum\Documents\GitHub\NewStreak\Plugins\SettingFunctionality\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\Module.SettingFunctionality.cpp.obj"
+"C:\Users\Massum\Documents\GitHub\NewStreak\Plugins\SettingFunctionality\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\Module.SettingFunctionality.gen.cpp.obj"
+"C:\Users\Massum\Documents\GitHub\NewStreak\Intermediate\Build\Win64\UE4\Development\SettingFunctionality\PCLaunch.rc.res"
+/OUT:"C:\Users\Massum\Documents\GitHub\NewStreak\Plugins\SettingFunctionality\Binaries\Win64\UE4-SettingFunctionality.lib"
